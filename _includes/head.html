@@ -10,7 +10,7 @@
   {% assign full_base_url = user_url | default: site.github.url %}
   <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: full_base_url }}">
 
-  {% if page.layout = shorten %}
+  {% if page.layout == shorten %}
   <link rel="canonical" href="{{ page.long_url }}"/>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="refresh" content="0;url={{ page.long_url }}" />
