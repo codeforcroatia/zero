@@ -1,0 +1,29 @@
+// RED INVERTED THEME
+// Based on default red theme
+
+// Color variables
+$black: #181818;
+$red: #E74727;
+$red-dark: #DC3918;
+$gray: #45474A;
+dark-gray: #2C2C2D;
+$white: #fff;
+
+// Config
+$color-background: $black !default;
+$color-dot-accent: $red !default;
+$color-foreground: $red !default;
+$color-title: $white !default;
+$color-body-text: $black !default;
+$color-text-accent: $red-dark !default;
+$color-code: $red-dark !default;
+$color-nav-link: $white !default;
+$color-primary-link: $red !default;
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;

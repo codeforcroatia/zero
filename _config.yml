@@ -37,8 +37,8 @@ social_username: codeforcroatia
 social_fb_username: programirajzahrvatsku
 
 # Set theme color here
-# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow; violet (custom).
-theme_color: red
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow; violet (custom); redinverted (custom).
+theme_color: redinverted
 
 # Build settings
 markdown: kramdown
