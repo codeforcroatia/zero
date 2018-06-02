@@ -29,8 +29,7 @@ This project and everyone participating in it is governed by the Code for Croati
 
 We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
 
-* [Diskurs, the official HrOpen and Code for Croatia message board](http://diskurs.open.hr)
-* [Imamo pravo znati FAQ](http://imamopravoznati.org/help)
+* [Diskurs, the official HrOpen and Code for Croatia message board](http://diskurs.codeforcroatia.org)
 
 If chat is more your speed, you can join the Code for Croatia Slack team:
 
