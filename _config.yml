@@ -18,7 +18,7 @@ exclude: [vendor]
 title: Code for Croatia Zero
 description: URL shortener za Code for Croatia team.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://codeforcroatia.github.io/zero" # the base hostname & protocol for your site
+url: "https://codeforcroatia.github.io" # the base hostname & protocol for your site
 github_repo: zero # the GitHub repo name for your project
 github_username: codeforcroatia
 portal:
