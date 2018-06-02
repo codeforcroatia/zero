@@ -2,6 +2,8 @@
 
 This is Jekyll Github pages with URL shortener for Code for Croatia. Few modifications are done on Swiss Theme to accomodate our needs.
 
+[![Build Status](https://travis-ci.org/codeforcroatia/zero.svg?branch=gh-pages)](https://travis-ci.org/codeforcroatia/zero)
+
 ## Based on Swiss Jekyll Theme
 
 Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
