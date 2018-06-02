@@ -17,8 +17,8 @@ exclude: [vendor]
 # in the templates via {{ site.myvariable }}.
 title: Code for Croatia Zero
 description: URL shortener za Code for Croatia team.
-baseurl: "/zero" # the subpath of your site, e.g. /blog
-url: "https://codeforcroatia.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://codeforcroatia.github.io/zero" # the base hostname & protocol for your site
 github_repo: zero # the GitHub repo name for your project
 github_username: codeforcroatia
 portal:
