@@ -1,6 +1,6 @@
 ---
 layout: 	shorten
-title:		"Tijelo traži dostavu adrese stanovanja"
+title:		"Lorem ipsum dorsi"
 date:		2017-12-21 00:00:00 -0000
 categories:	slides
 permalink:	/short/
