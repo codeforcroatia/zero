@@ -1,11 +1,11 @@
 ---
 layout: 	shorten
-title:		"Lorem ipsum dorsi"
-date:		2017-12-21 00:00:00 -0000
-categories:	slides
-permalink:	/short/
-long_url: 	http://codeforcroatia.org
-created_by:	"Name"
+title:		"Popravi.to (FixMyStreet) — Projects — Code for Croatia"
+date:		2017-08-06 00:00:00 -0000
+categories:	projects
+permalink:	/fms/
+long_url: 	http://codeforcroatia.org/projects/popravi.to-istra
+created_by:	"Miroslav"
 ---
 
 <!--
