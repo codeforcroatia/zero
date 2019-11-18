@@ -5,6 +5,9 @@
   </head>
   <body>
     <p>Please follow <a href="{{ page.long_url }}">this link</a></p>
-    <script>location='{{ page.long_url }}'</script>
+    <!-- <script>location='{{ page.long_url }}'</script> -->
+    <script type="text/javascript">
+      window.location = "{{ page.long_url }}"
+    </script>
   </body>
 </html>
